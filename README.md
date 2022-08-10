@@ -1,6 +1,7 @@
 # Hi, I'm Diogo 👋
 
-I'm a full-stack developer.
+I'm a full-stack web developer. Interested in marketplaces, blockchain.
+
 
 ### Find me around the web 🌎
 - Website - <a href="https://diogo.xyz">diogo.xyz</a>
